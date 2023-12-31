@@ -1,0 +1,81 @@
+*{
+    font-family: 'geomanist';
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+#seksi {
+    background-color: #FFF9ED;
+}
+
+#seksi1 {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#lingkaran {
+    margin-right: 10px;
+    border: 3px solid red;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+#bio {
+    width: 300px;
+    height: 153px;
+    margin-left: 500px;
+    background-color: #FFF5E2;
+    box-shadow: 1px 1px 3px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#bio p,
+#bio h3 {
+    margin: 0; /* Remove default margin for better alignment */
+}
+
+
+#menu {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+#menu input {
+    width: 40px;
+}
+
+#menu h1 {
+    padding-top: 60px;
+}
+
+#menu td {
+    width: 90%;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    color: #2F5231;
+}
+
+#nama-menu {
+    font-size: 25px;
+}
+
+span {
+    color: black;
+    font-size: 15px;
+}
+
+#tombol{
+    background-color: #FF0000;
+    color: #FFF9ED;
+    margin-top: 30px;
+    font-weight: bold;
+}
+

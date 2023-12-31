@@ -1,0 +1,74 @@
+*{
+    font-family: geomanist;
+    box-sizing: border-box;
+   
+}
+.navbar{
+    background-color: #2F5231;
+}
+.nav-link{
+    color: #FFF9ED;
+}
+
+.btn{
+    
+    border-radius: 40px;
+}
+
+#seksi1{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url("../img/IMG_8987.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+
+}
+
+#tulisanseksi1{
+   padding: 10px;
+   margin: auto;
+}
+
+#tulisanseksi1 h1{
+    font-size: 3em;
+}
+    
+#seksi2{
+    background-color: #FFF9ED;
+}
+
+#seksi3{
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    background-image: url("../img/Apple\ French\ Toast\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+
+}
+
+#seksi4{
+    background-color: #FFF9ED;
+    min-height: 30vh;
+}
+
+
+#seksi4h1{
+    
+    
+    color: #2F5231;
+}
+
+table tr td{
+    text-align: center;
+    align-items: center;
+    padding: 7px;
+}
+

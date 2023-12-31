@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+    font-family: 'geomanist';
+}
+
+#seksi1{
+    background-image: url("../img/backgroundreservasi.png");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.tulisan{
+    position: relative;
+    top: 300px;
+}
+
+#seksi2{
+    background-color: #FFF9ED;
+}
+
+.tulisan2{
+    padding-top: 20px;
+}
+#tombol{
+    background-color: #FF0000;
+    color: #FFF9ED;
+}
+
+#ruangan {
+    background-color: #FFF9ED;
+}
+
+#kiri {
+    width: 32%;
+    height: auto;
+    padding: 10px;
+}
+
+#card1{
+    width: 70%;
+    padding: 20px;
+    background-color: #FFF5E2;
+}
+
+#img-card1 {
+    display: flex;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#img-card1 img {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20px;
+}
+
+#kanan {
+    width: 70%;
+    margin-left: 40px;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#kanan h5 {
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    color: #7A7A7A;
+}
+
+#kanan button {
+    background-color: #FF0000;
+    color: white;
+    font-weight: bold;
+    float: right;
+}

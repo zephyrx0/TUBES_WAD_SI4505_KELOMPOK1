@@ -1,0 +1,84 @@
+*{
+    font-family: geomanist;
+    box-sizing: border-box;
+}
+
+#seksiutama {
+    background-color: #FFF9ED;
+}
+
+#seksi1{
+    display: flex;
+    background-image: url("../img/mba hitam.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 490px;
+    width: 100%;
+}
+
+#tulisanseksi1 {
+    color: white;
+    margin: 0;
+    padding-top: 280px; 
+    padding-left: 117px;
+    
+}
+
+#tulisanseksi1 h1{
+    font-size: 80px;
+}
+
+#tulisanseksi1 p{
+    font-size: 28px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+#tulisanseksi2 h2{
+    font-size: 33px;
+}
+
+#tulisanseksi2 p{
+    font-size: 23px;
+    font-family: 'Inter', sans-serif;
+}
+
+#seksi3 {
+    display: flex;
+    max-width: 100%;
+    height: 1000px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#carouselExampleAutoplaying {
+    width: 1600px; /* Maksimum lebar sesuai dengan lebar parent-nya */
+    margin: auto; /* Untuk memastikan posisi tengah */
+    padding-left: 30px;
+}
+
+#carouselExampleAutoplaying img{
+    width: 33%; /* Maksimum lebar sesuai dengan lebar parent-nya */
+    margin: auto; /* Untuk memastikan posisi tengah */
+}
+
+.carousel-control-prev {
+    margin: auto;
+    height: 200px;
+}
+
+.carousel-control-next {
+    margin: auto;
+    height: 200px;
+}
+
+.larger-image {
+    width: 100%; /* Set the width to 100% to fill the modal */
+    max-height: 80vh; /* Set a maximum height for the image to fit within the viewport */
+    margin: auto; /* Center the image horizontally */
+    display: block; /* Remove any default inline styling for display */
+}
+
+

@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    font-family: 'geomanist';
+}
+
+section{
+    background-color: #FFF9ED;
+    height: 100%;
+}
+
+section h1{
+    
+    color: #2F5231;
+
+}
+
+#tombol{
+    background-color: #FF0000;
+    color: #FFF9ED;
+    
+}
+
+form{
+    padding: 5px;
+    /* margin: 5px; */
+    padding-bottom: 30px;
+    background-color: #FFF5E2;
+}
